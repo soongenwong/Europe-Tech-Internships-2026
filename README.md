@@ -8,6 +8,8 @@
 
 </div>
 
+![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Profile%20views&color=ffa500&style=for-the-badge)
+
 ## 🎯 About
 
 Your comprehensive guide to **Software Engineering Internships** and **Placements** for 2026. Updated daily with new opportunities!
