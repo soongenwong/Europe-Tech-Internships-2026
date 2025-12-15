@@ -8,7 +8,7 @@
 
 </div>
 
-![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Profile%20views&color=ffa500&style=for-the-badge)
+![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Total%20views&color=ffa500&style=for-the-badge)
 
 ## 🎯 About
 
