@@ -10,6 +10,12 @@
 
 ![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Total%20views&color=ffa500&style=for-the-badge)
 
+<div align="center">
+
+### 💬 [Join our WhatsApp Group!](https://chat.whatsapp.com/L8539VjtrsdLJVaJK9r3BF)
+
+</div>
+
 ## 🎯 About
 
 Your comprehensive guide to **Software Engineering Internships** and **Placements** for 2026. Updated daily with new opportunities!
