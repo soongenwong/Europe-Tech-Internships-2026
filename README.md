@@ -56,6 +56,10 @@ Your comprehensive guide to **Software Engineering Internships** and **Placement
 <!-- TABLE_START -->
 | Company Name | Programme Name | Opening Date | Apply |
 |---|---|---|---|
+
+| **M & G** | Technology Intern | 30 Dec 25 | <a href="https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Technology-Internship--London-_R18236?source=LinkedIn_Slots"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Viator** | Software Engineer Intern | 30 Dec 25 | <a href="https://careers.tripadvisor.com/job?jobId=7479903&t=0uxfm5&gh_src=0uxfm5"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+| **Talos** | Software Engineer Intern | 30 Dec 25 | <a href="https://jobs.ashbyhq.com/Talos-Trading/f2b1c5af-ed8d-4759-98f4-76f656d83a52"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Jack&Jill** | Software Engineer | 26 Nov 25 | <a href="https://tally.so/r/A77kjD"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Trainline** | Intern Engineer | 26 Nov 25 | <a href="https://jobs.ashbyhq.com/trainline/38c0d37d-68ba-46f9-bbf9-b458c07d3d8c?utm_source=utm_source%3DLinkedInPaid"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
 | **Aspect Capital** | Quantitative Research Intern - Execution Research | 13 Nov 25 | <a href="https://aspectcapital-42aeea.careers.hibob.com/jobs/1df25980-3ccc-4464-8bd9-bd5328561cee"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
