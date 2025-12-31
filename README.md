@@ -2,32 +2,23 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=vercel)](https://2026-swe-internship-uk.vercel.app/)
+![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Total%20views&color=ffa500&style=for-the-badge)
 [![Stars](https://img.shields.io/github/stars/soongenwong/2026-SWE-Internship-UK?style=for-the-badge&logo=github)](https://github.com/soongenwong/2026-SWE-Internship-UK/stargazers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-Daily-green?style=for-the-badge&logo=github)](https://github.com/soongenwong/2026-SWE-Internship-UK/commits/main)
+
 
 </div>
 
-![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Total%20views&color=ffa500&style=for-the-badge)
+
 
 <div align="center">
 
-### 💬 [Join our WhatsApp Group!](https://chat.whatsapp.com/L8539VjtrsdLJVaJK9r3BF)
+### 💬 [Join our WhatsApp Community!](https://chat.whatsapp.com/L8539VjtrsdLJVaJK9r3BF)
 
 </div>
 
 ## 🎯 About
 
 Your comprehensive guide to **Software Engineering Internships** and **Placements** for 2026. Updated daily with new opportunities!
-
-## 🌟 Features
-
-<div align="center">
-
-<kbd>[🔍 Browse All Internships](https://2026-swe-internship-uk.vercel.app/)</kbd>&nbsp;&nbsp;
-<kbd>[📝 Application Tips](https://2026-swe-internship-uk.vercel.app/application-tips)</kbd>&nbsp;&nbsp;
-<kbd>[💻 LeetCode Patterns](https://2026-swe-internship-uk.vercel.app/leetcode-patterns)</kbd>&nbsp;&nbsp;
-<kbd>[📚 Interview Resources](https://2026-swe-internship-uk.vercel.app/resources)</kbd>
 
 </div>
 
